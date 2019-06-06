@@ -1,5 +1,8 @@
 _repo: Index-of-the-PG-Works-of-Various-Authors-on-Napoleon-Bonaparte_59636
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59636-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59636#Index-of-the-PG-Works-of-Various-Authors-on-Napoleon-Bonaparte
 gutenberg_issued: '2019-05-30'
 gutenberg_type: Text
 identifiers:
